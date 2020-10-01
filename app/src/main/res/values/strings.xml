@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieFeed</string>
+    <string name="search_word">検索ワード</string>
+    <string name="search_word_label">検索ワード：</string>
+    <string name="contents_desc_search_button">検索ボタン</string>
+    <string name="contents_desc_thumbnail">サムネイル</string>
+</resources>
